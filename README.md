@@ -12,3 +12,4 @@
 # 編集手順
 オリジナル素材は、ClipStudioにてPSD出力、CubismEditor3.3にて編集しました。
 
+![素材](素材データ/my/output/oricharaLive2DChara0.1024/texture_00.png)
