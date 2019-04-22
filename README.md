@@ -2,6 +2,8 @@
 
 #環境
 * Unity 2019.1
+* Cubism3SdkforUnity-11.unitypackage
+* Live2D_SDK_Unity_2.1.04_2_jp
 * Live2D Cubism Editor3.3
 
 # 実装日数
